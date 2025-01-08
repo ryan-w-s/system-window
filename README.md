@@ -11,7 +11,7 @@ Probably don't use this for real, there are better alternatives for this niche.
 ## Usage
 
 ```bash
-cargo run
+cargo run --release
 ```
 
-
+Not going to add an installer personally.
